@@ -19,8 +19,8 @@ An automated customer feedback analysis pipeline powered by Generative AI. This 
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.12+
-* **AI/LLM:** OpenAI API (GPT-4o-mini), Prompt Engineering
-* **Data Manipulation:** Pandas, NumPy
+* **AI/LLM:** OpenAI API (GPT-4o-mini, GPT-5-mini), Prompt Engineering
+* **Data Manipulation:** Pandas, NumPy, Scikit-learn
 * **Visualization:** Matplotlib, Seaborn, Plotly, WordCloud
 
 ## 📊 Dataset
